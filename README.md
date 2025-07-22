@@ -1,6 +1,6 @@
 # ILUp — Incomplete LU Factorization (ILU(p)) in Python
 
-> A lightweight Python implementation that builds **ILU(p) preconditioners** for sparse matrices at a chosen fill level *p*.
+A lightweight Python implementation that builds **ILU(p) preconditioners** for sparse matrices at a chosen fill level *p*.
 
 ## Features
 - **`ilu_p(A, p)`**  
